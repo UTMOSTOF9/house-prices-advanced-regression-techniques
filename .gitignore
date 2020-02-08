@@ -1,0 +1,5 @@
+.python-version
+results/
+data
+data/*
+.vscode
